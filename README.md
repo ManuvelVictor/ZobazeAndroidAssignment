@@ -36,7 +36,7 @@ Built with **Jetpack Compose**, **MVVM**, **Hilt**, **Room**, and **Material 3**
 ---
 
 ## 🤖 AI Usage  
-- Scaffolded MVVM structure, Compose UI screens, and Hilt/Room DI setup with **ChatGPT/Copilot**.  
+- Scaffolded MVVM structure, Compose UI screens, and Hilt/Room DI setup with **ChatGPT/Perplexity**.  
 - Modernized UI with Material3 components, category bottom sheet, Snackbar, and Lottie empty state.  
 - Implemented reactive flows for totals, daily/category expenses, last-7-days chart data, and export/share flows.  
 - Used AI to fix dependency versions, imports, and Hilt duplicate binding issues.
